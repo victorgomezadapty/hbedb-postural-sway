@@ -82,7 +82,7 @@ In 158 participants with all four conditions, closing the eyes added 0.65 cm/s m
 All figures, summary tables, participant-level condition means, and the full numerical report are included under `outputs/` and `RESULTS.md`. This repository and its Kaggle companion exclude the source `.dat` and `.hea` recordings and the BDSinfo interview file.
 
 - Case study: https://victor-gomez-portfolio.vercel.app/projects/hbedb-postural-sway
-- Kaggle derived outputs: https://www.kaggle.com/datasets/vctorandrsgmezlpez/human-balance-evaluation-postural-sway
+- Kaggle derived outputs: https://www.kaggle.com/datasets/vctorandrsgmezlpez/hbedb-quiet-stance-sway-vision-and-surface
 - Source data: https://physionet.org/content/hbedb/1.0.0/
 
 ## Cite this analysis
