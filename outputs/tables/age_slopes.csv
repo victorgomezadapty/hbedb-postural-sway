@@ -1,0 +1,6 @@
+outcome,contrast,contrast_label,n_subjects,slope_per_year,ci_low,ci_high
+mv_cm_s,vision_on_firm,"Eyes closed minus eyes open, firm surface",158,0.0007532177173170877,-0.0014453253534600643,0.003191206961895501
+mv_cm_s,vision_on_foam,"Eyes closed minus eyes open, foam surface",158,-0.0012311886644250196,-0.005897103862109897,0.003454331604526269
+mv_cm_s,surface_eyes_open,"Foam minus firm, eyes open",158,0.02328127471116998,0.019866929913690053,0.02700048961830718
+mv_cm_s,surface_eyes_closed,"Foam minus firm, eyes closed",158,0.02129686832942787,0.015485353692406464,0.027219049759815355
+mv_cm_s,interaction,Interaction: extra eyes-closed effect on foam,158,-0.001984406381742108,-0.006819060905873295,0.0026326707896835643

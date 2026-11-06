@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+
+# PhysioNet recordings and metadata. Redistribution is intentionally excluded.
+data/
+agent-tools/
+*.dat
+*.hea
+BDSinfo.txt
+BDSinfo.xlsx

@@ -1,0 +1,17 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright 2026 Víctor Andrés Gómez López
+
+This license applies to the original materials in this analysis draft: the source code, tests, documentation written for this project, the design of the figures, and the written results.
+
+You may copy, share, and adapt those materials for any purpose, including commercial use, under the terms of CC BY 4.0:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution: credit Víctor Andrés Gómez López as the author of the analysis, link to this license, and indicate if you made changes. You may do so in any reasonable manner, but not in a way that suggests endorsement.
+
+This license does not apply to the Human Balance Evaluation Database, and it does not relicense that database. The recordings and BDSinfo are not included in this project. Version 1.0.0 is obtained from PhysioNet (https://physionet.org/content/hbedb/1.0.0/, DOI 10.13026/C2WW2W). The license page served with that version is the Open Data Commons Attribution License v1.0 (https://opendatacommons.org/licenses/by/1.0/).
+
+A public result that contains information from the database still needs the ODC-BY notice, in addition to CC BY attribution for this project's own writing and code. See DATA_LICENSE.md. The 2016 PeerJ article describes the PhysioNet copy as ODC-PDDL. This project follows the license page served with the files.

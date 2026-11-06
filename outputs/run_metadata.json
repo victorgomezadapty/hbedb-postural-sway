@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-11-06 09:06 UTC",
+  "versions": {
+    "python": "3.12.3",
+    "hbedb_sway": "1.0.0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.1.1",
+    "statsmodels": "0.15.0",
+    "matplotlib": "3.11.2"
+  },
+  "fingerprint": {
+    "bdsinfo_sha256": "012a7124b5f12a6d9be94f5a2bd70f181d6d33c928018ba872540a9c776326a6",
+    "records_sha256": "b6720632cf8ee58422e742811ad012d638dd0bb232a7048b655665fc17e45914",
+    "dataset_version": "1.0.0",
+    "dataset_doi": "10.13026/C2WW2W",
+    "license_followed": "ODC-BY 1.0",
+    "seed": 2648,
+    "n_bootstrap": 10000,
+    "n_permutation": 20000
+  },
+  "quality": {
+    "n_trials": 1930,
+    "n_trials_excluded": 0,
+    "reason_counts": {},
+    "n_subjects_metadata": 163,
+    "n_subjects_analytic": 158,
+    "n_analytic_trials": 1896,
+    "n_subjects_with_fewer_than_3_reps": 0,
+    "fz_ratio_min": 0.9503121974106964,
+    "fz_ratio_max": 1.0372142497479087,
+    "cop_recon_max_cm": 2.61206000065628e-07,
+    "max_step_max_cm": 1.4004895305401017,
+    "speed_min_cm_s": 0.3962383349719796,
+    "speed_max_cm_s": 10.180586204608801,
+    "n_checksum_fail": 0,
+    "n_age_header_mismatch": 0,
+    "n_height_header_mismatch": 0,
+    "n_weight_header_mismatch": 0,
+    "n_subject_id_mismatch": 0
+  },
+  "validation": {
+    "interaction_subject_mean": 0.6518059393560335,
+    "interaction_subject_ols": 0.651805939356063,
+    "interaction_trial_ols": 0.6518059393560056,
+    "se_trial_naive": 0.07989350927813081,
+    "se_trial_cluster": 0.047890328699319626,
+    "se_subject_naive": 0.13364401621977823,
+    "se_subject_cluster": 0.04796656674364652,
+    "se_bootstrap": 0.04705581320757539,
+    "contrast_sd": 0.6014954136455621,
+    "se_participants": 0.047852405772402073,
+    "se_if_trials_counted_as_people": 0.013813799677033771,
+    "t_ci_low": 0.5572883860472412,
+    "t_ci_high": 0.7463234926648258,
+    "boot_ci_low": 0.5591762002685596,
+    "boot_ci_high": 0.7450880466449044
+  },
+  "protocol": {
+    "n_incomplete_subjects": 5,
+    "incomplete_by_age": {
+      "Old": 4,
+      "Young": 1
+    },
+    "missing_cells": {
+      "Closed|Firm": 0,
+      "Closed|Foam": 5,
+      "Open|Firm": 0,
+      "Open|Foam": 3
+    },
+    "n_subjects": 163,
+    "n_trials": 1930
+  },
+  "repetition": {
+    "estimate": -0.09819894920954468,
+    "se": 0.008081154778448741,
+    "ci_low": -0.11403772152879797,
+    "ci_high": -0.08236017689029139,
+    "p": 5.625474951132835e-34,
+    "n_trials": 1896,
+    "n_subjects": 158
+  },
+  "random_intercept": {
+    "between_subject_variance": 0.45771279535075143,
+    "residual_variance": 0.30062821205386286,
+    "icc": 0.603571204618423,
+    "converged": true
+  }
+}
